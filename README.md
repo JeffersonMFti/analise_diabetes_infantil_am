@@ -35,14 +35,14 @@ analise_diabetes_infantil_am/
 │   ├── diabetes_morbidade_criancas_am_2020_2025.xlsx
 │   ├── relatorio_diabetes_infantil_amazonas.pdf
 │   └── README.md             # Descrição dos resultados
-├── entrega/                   # Material para email
-│   ├── RESUMO_EXECUTIVO_EMAIL.md
-│   ├── EMAIL_RESUMO_CURTO.txt
-│   └── README.md             # Instruções de envio
 ├── documentacao/              # Manuais e instruções
 │   └── README.md             # Links para documentação
+├── demo/                      # Demonstração visual
+│   ├── README.md             # Guia de visualizações
+│   └── gerar_imagens_demo.py # Gerador de imagens demo
 ├── requirements.txt           # Dependências Python
 └── README.md                 # Este arquivo
+```
 ```
 
 ## � **Dados Públicos e Transparência**
